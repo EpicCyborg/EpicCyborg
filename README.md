@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EpicCyborg
+- I program random stuff as a hobby.
+- I have been learning Arduino, C++ and python.
